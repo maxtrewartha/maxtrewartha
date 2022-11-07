@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @maxtrewartha
-- 👀 I’m interested in IoT and Mobile Apps
-- 🌱 I’m currently learning how live without stack overflow<!-- - 💞️ I’m looking to collaborate on -->
-- 📫 How to reach me [Instagram](https://instagram.com/_whhore/) or [Twitter](https://twitter.com/sneetsnart)
+- 👋 Hi, I’m Max
+- Not an awful lot here at the moment
+- To get in touch, email [max@trewartha.dev](mailto:max@trewartha.dev)
