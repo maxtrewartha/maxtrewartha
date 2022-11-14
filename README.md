@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Max
 - Not an awful lot here at the moment
-- To get in touch, email [max@trewartha.dev](mailto:max@trewartha.dev)
+- To get in touch, email [max@penthousecomputers.co.uk](mailto:max@penthousecomputers.co.uk)
